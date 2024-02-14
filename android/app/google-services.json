@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162735991962",
+    "project_id": "apeiron-1a2e3",
+    "storage_bucket": "apeiron-1a2e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162735991962:android:c933d8f86cb7db93be8323",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jSneZ5ddFlzMe3ly1X_u8o_oiHZ46VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
